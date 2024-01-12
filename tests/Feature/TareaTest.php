@@ -1,5 +1,7 @@
 <?php
 
+//Set de pruebas para cada endpoint
+
 namespace Tests\Feature;
 
 use Illuminate\Foundation\Testing\RefreshDatabase;
